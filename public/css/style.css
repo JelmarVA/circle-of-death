@@ -9,11 +9,9 @@ Primary style
 Scrub Effect
 -------------------------------- */
 .scrub-transition {
-  font-family: "PT Sans", sans-serif;
   color: #2c1a32;
 }
 .scrub-transition h1, .scrub-transition h2 {
-  font-family: "Sigmar One", serif;
   margin-bottom: .4em;
   font-size: 4rem;
 }
@@ -67,11 +65,9 @@ Scrub Effect
 Fire Extinguisher Effect
 -------------------------------- */
 .extinguisher-transition {
-  font-family: "Merriweather Sans", sans-serif;
   color: #f1faee;
 }
 .extinguisher-transition h1, .extinguisher-transition h2 {
-  font-family: "Merriweather", serif;
   margin-bottom: .4em;
   font-size: 3.2rem;
 }
@@ -126,7 +122,6 @@ Fire Extinguisher Effect
 Glitch Effect
 -------------------------------- */
 .glitch-transition {
-  font-family: "Work Sans", sans-serif;
   color: #ffffff;
 }
 .glitch-transition h1, .glitch-transition h2 {
@@ -183,12 +178,10 @@ Glitch Effect
 Scribble Effect
 -------------------------------- */
 .scribble-transition {
-  font-family: "PT Sans", sans-serif;
   color: #fcf4e1;
 }
 .scribble-transition h1, .scribble-transition h2 {
   margin-bottom: .4em;
-  font-family: "Rock Salt", cursive;
   font-size: 4rem;
   font-weight: 700;
 }
@@ -248,7 +241,6 @@ Scribble Effect
 Gummy Effect
 -------------------------------- */
 .gummy-transition {
-  font-family: "Nunito", sans-serif;
   color: #f2f2f2;
 }
 
@@ -283,14 +275,12 @@ Gummy Effect
 Gooey Effect
 -------------------------------- */
 .gooey-transition {
-  font-family: "PT Sans", sans-serif;
   color: #ffffff;
 }
 .gooey-transition h1, .gooey-transition h2 {
   margin-bottom: .4em;
   font-size: 4rem;
   font-weight: 700;
-  font-family: "Averia Sans Libre", cursive;
 }
 .gooey-transition .cd-btn {
   background: #cdf199;
@@ -342,7 +332,6 @@ Gooey Effect
 Mirror Effect
 -------------------------------- */
 .mirror-transition {
-  font-family: "Open Sans", sans-serif;
   color: #ffffff;
 }
 .mirror-transition h1, .mirror-transition h2 {
@@ -399,7 +388,6 @@ Mirror Effect
 Diamond Effect
 -------------------------------- */
 .diamond-transition {
-  font-family: "Lato", sans-serif;
   color: #656e8d;
 }
 .diamond-transition h1, .diamond-transition h2 {
@@ -465,14 +453,12 @@ Diamond Effect
 Cartoon Effect
 -------------------------------- */
 .cartoon-transition {
-  font-family: "PT Sans", sans-serif;
   color: #eeeeee;
 }
 .cartoon-transition h1, .cartoon-transition h2 {
   margin-bottom: .4em;
   font-size: 4rem;
   font-weight: 700;
-  font-family: "Boogaloo", serif;
 }
 .cartoon-transition .cd-btn {
   background: #f0ce00;
@@ -527,7 +513,6 @@ Cartoon Effect
 Clones Effect
 -------------------------------- */
 .clones-transition {
-  font-family: "Raleway", sans-serif;
   color: #ffffff;
 }
 .clones-transition h1, .clones-transition h2 {
@@ -587,7 +572,6 @@ Clones Effect
 Kaleidoscope Effect
 -------------------------------- */
 .kaleidoscope-transition {
-  font-family: "Playfair Display", serif;
   color: #ffffff;
 }
 .kaleidoscope-transition h1, .kaleidoscope-transition h2 {
